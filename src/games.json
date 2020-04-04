@@ -1,0 +1,136 @@
+{
+    "quizes": [
+        {
+            "id": "1",
+            "name": "Quiz1",
+            "questions": [
+                {
+                    "id": 1,
+                    "name": "Question 1",
+                    "content": "Who is the richest women in the world?",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Françoise Bettencourt Meyers - (L'Oréal)"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jacqueline Mars - (Mars, Inc.)"
+                        },
+                        {
+                            "id": 3,
+                            "name": "MacKenzie Bezos (Jeff Bezos's ex)"
+                        }
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Question 2",
+                    "content": "Question 2 content...",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Answer 1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Answer 2"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Answer 3"
+                        }
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 3,
+                    "name": "Question 3",
+                    "content": "Question 3 content...",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Answer 1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Answer 2"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Answer 3"
+                        }
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Quiz2",
+            "questions": [
+                {
+                    "id": 1,
+                    "name": "Question 1 quiz2",
+                    "content": "Question 1 content...",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Answer 1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Answer 2"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Answer 3"
+                        }
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Question 2 quiz2",
+                    "content": "Question 2 content...",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Answer 1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Answer 2"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Answer 3"
+                        }
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 3,
+                    "name": "Question 3 quiz2",
+                    "content": "Question 3 content...",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "name": "Answer 1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Answer 2"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Answer 3"
+                        }
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        }
+    ]
+}
